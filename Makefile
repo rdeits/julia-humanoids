@@ -1,6 +1,6 @@
-.PHONY: default
+default_target: all
 
-default: packages/v0.6/REQUIRE config/setup.sh
+all: packages/v0.6/REQUIRE config/setup.sh
 
 packages/v0.6/REQUIRE: REQUIRE packages/v0.6
 	rm packages/v0.6/REQUIRE

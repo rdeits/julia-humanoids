@@ -1,3 +1,6 @@
 [submodule "submodules/HumanoidLCMSim"]
 	path = submodules/HumanoidLCMSim
 	url = https://github.com/tkoolen/HumanoidLCMSim.jl
+[submodule "submodules/AtlasRobot"]
+	path = submodules/AtlasRobot
+	url = https://github.com/tkoolen/AtlasRobot.jl
