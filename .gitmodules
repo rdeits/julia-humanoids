@@ -1,0 +1,3 @@
+[submodule "submodules/HumanoidLCMSim"]
+	path = submodules/HumanoidLCMSim
+	url = https://github.com/tkoolen/HumanoidLCMSim.jl
